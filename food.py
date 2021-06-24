@@ -135,7 +135,8 @@ Here are what to do:
                 print("Number out of range")
 
 #main
-main()
+if __name__ == '__main__':
+    main()
 
 
 
